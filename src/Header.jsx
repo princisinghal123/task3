@@ -6,3 +6,19 @@ function Header(){
     )
 }
 export default Header
+
+export function settings(){
+    return(
+        <div>
+            <h2>settings</h2>
+        </div>
+    )
+}
+
+export function profile(){
+    return(
+        <div>
+            <h2>profile</h2>
+        </div>
+    )
+}

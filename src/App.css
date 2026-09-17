@@ -1,3 +1,4 @@
+
 .counter {
   font-size: 16px;
   padding: 5px 10px;
@@ -181,4 +182,17 @@
     right: 0;
     border-right-color: var(--border);
   }
+}
+#rootDiv{
+  font-size: 40px;
+}
+#button{
+  
+  height:50px;
+  width:100px;
+  font-size:20px;
+  background-color:rgb(165, 165, 209);
+}
+.App{
+  /* g */
 }
