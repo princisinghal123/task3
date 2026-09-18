@@ -194,5 +194,10 @@
   background-color:rgb(165, 165, 209);
 }
 .App{
-  /* g */
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRncPvkArnADDeFYg932G_CxnCHWkhJZx-nn07rtM0tFQ&s=1024");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+
 }
